@@ -1,3 +1,4 @@
+//86. WAP to print all Armstrong numbers between given interval using functions
 import java.util.Scanner;
 
 public class AmstrongIntervalsBetween {
