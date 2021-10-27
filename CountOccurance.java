@@ -1,3 +1,4 @@
+//Write a java program to count occurrences of a character in given string
 import java.util.Scanner;
 
 public class CountOccurance {
