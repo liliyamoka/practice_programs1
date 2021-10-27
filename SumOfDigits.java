@@ -1,3 +1,4 @@
+//Write a java program to calculate sum of digits of a number
 import java.util.Scanner;
 public class SumOfDigits {
 
