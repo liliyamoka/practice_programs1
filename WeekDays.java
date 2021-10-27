@@ -1,3 +1,4 @@
+//Write a java program to input week number and print week day
 import java.util.Scanner;
 
 public class WeekDays {
