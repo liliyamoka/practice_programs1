@@ -1,3 +1,4 @@
+//Write a java program to print all Strong numbers between 1 to n.
 import java.util.Scanner;
 public class StrongNumBetween {
 
