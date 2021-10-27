@@ -1,3 +1,4 @@
+//26. Write a java program to count number of digits in a number.
 import java.util.Scanner;
 public class CountDigits {
 
