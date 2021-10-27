@@ -1,3 +1,4 @@
+//write a programm for concatenate two strings
 import java.util.Scanner;
 
 public class ConcateStrings {
