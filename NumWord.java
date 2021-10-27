@@ -1,3 +1,4 @@
+//Write a java program to enter a number and print it in words
 import java.util.Scanner;
 public class NumWord {
 
