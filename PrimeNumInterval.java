@@ -1,3 +1,4 @@
+//WAP to find all prime numbers between given interval using 
 import java.util.Scanner;
 
 public class PrimeNumInterval {
