@@ -1,3 +1,4 @@
+//Write a java program to count total number of notes in given amount
 import java.util.Scanner;
 public class Notes {
 
