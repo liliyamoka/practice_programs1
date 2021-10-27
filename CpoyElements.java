@@ -1,3 +1,4 @@
+//Write a java program to copy all elements from an array to another array.
 import java.util.ArrayList;
 import java.util.Scanner;
 public class CpoyElements {
