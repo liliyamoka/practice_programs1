@@ -1,3 +1,4 @@
+// Write a java program to find frequency of each digit in a given integer
 import java.util.Scanner;
 
 public class FindFreqDigit {
