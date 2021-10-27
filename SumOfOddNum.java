@@ -1,3 +1,4 @@
+//Write a java program to find sum of all odd numbers between 1 to n
 import java.util.Scanner;
 
 public class SumOfOddNum {
