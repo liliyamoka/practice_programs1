@@ -1,3 +1,4 @@
+//Write a java program to find first and last digit of a number
 import java.util.Scanner;
 public class FirstLastDigits {
 
