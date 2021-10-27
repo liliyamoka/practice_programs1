@@ -1,4 +1,4 @@
-
+//Write a java program to print all odd number between 1 to 100
 import java.util.Scanner;
 class NOddNum{
 public static void main (String args[]){
