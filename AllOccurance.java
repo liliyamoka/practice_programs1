@@ -1,3 +1,4 @@
+//72. Write a java program to search all occurrences of a character in given string.
 import java.util.Scanner;
 
 public class AllOccurance {
