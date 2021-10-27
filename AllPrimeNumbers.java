@@ -1,3 +1,4 @@
+//40. Write a java program to print all Prime numbers between 1 to n
 import java.util.Scanner;
 public class AllPrimeNumbers {
 
