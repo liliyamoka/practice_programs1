@@ -1,3 +1,4 @@
+// Write a java program to count frequency of each character in a string
 import java.util.Scanner;
 
 public class CountFreqOfString {
