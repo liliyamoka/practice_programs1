@@ -1,3 +1,4 @@
+//Write a java program to print all unique elements in the array
 import java.util.HashMap;
 import java.util.Scanner;
 
