@@ -1,3 +1,4 @@
+//write a program count even and odd elements in a array
 import java.util.Scanner;
 public class EvenOddArray {
 
