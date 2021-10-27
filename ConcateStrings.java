@@ -1,4 +1,4 @@
-//write a programm for concatenate two strings
+//Write a java program to find length of a string and compare and concatenate two     strings
 import java.util.Scanner;
 
 public class ConcateStrings {
