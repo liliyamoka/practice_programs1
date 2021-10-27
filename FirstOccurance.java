@@ -1,3 +1,4 @@
+//Write a java program to find first occurrence of a character in a given string
 import java.util.Scanner;
 
 public class FirstOccurance {
