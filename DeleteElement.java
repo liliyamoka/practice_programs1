@@ -1,3 +1,4 @@
+//Write a java program to delete an element from an array at specified position
 import java.util.Scanner;
 
 public class DeleteElement {
