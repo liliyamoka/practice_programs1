@@ -1,3 +1,4 @@
+//Write a java program to print all negative elements in an array.
 import java.util.Scanner;
 public class NegNumArray {
 
