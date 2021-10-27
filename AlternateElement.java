@@ -1,3 +1,4 @@
+//88. WAP to Print the Alternate Elements in an Array
 import java.util.Scanner;
 
 public class AlternateElement {
