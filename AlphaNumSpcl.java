@@ -1,4 +1,4 @@
-//7. Write a java program to check whether a character is alphabet or not.
+//Write a java program to input any character and check whether it is alphabet, digit    or special character
 import java.util.Scanner;
 public class AlphaNumSpcl {
 
