@@ -1,3 +1,4 @@
+//7. Write a java program to check whether a character is alphabet or not.
 import java.util.Scanner;
 public class AlphaNumSpcl {
 
