@@ -1,3 +1,4 @@
+//Write a java program to count total number of duplicate elements in an array.
 import java.util.Scanner;
 public class DuplicateElements {
 
