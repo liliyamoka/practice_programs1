@@ -1,6 +1,7 @@
+//Write a java program to find highest frequency character in a string
 import java.util.Scanner;
 
-public class HigestFrequency {
+public class HighestFrequency {
 
 	public static void main(String[] args) {
 		 Scanner sc = new Scanner(System.in);
