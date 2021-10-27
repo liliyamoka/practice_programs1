@@ -1,3 +1,4 @@
+//WAP to print reverse case of a given string
 import java.util.Scanner;
 
 public class RevStringCase {
